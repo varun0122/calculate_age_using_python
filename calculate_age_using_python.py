@@ -8,7 +8,7 @@ from tkinter import messagebox
 # Function for clearing the
 # contents of all text entry boxes
 def clearAll() :
-
+dd
 	# deleting the content from the entry box
 	monthField.delete(0, END)
 	yearField.delete(0, END)
